@@ -2,7 +2,7 @@
 Stephen Ndungu
 reg no CT101/ G/26448/25
 A SIMPLE C PROGRAQM TO PROMPT THE USER TO ENTER BANK BALANCE
-	
+*/
 
 #include <stdio.h>
 int main(){
@@ -14,3 +14,4 @@ int main(){
 	return 0;
 
 }
+
