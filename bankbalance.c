@@ -1,4 +1,8 @@
-//simple program to prompt user to enter bankbalance
+/*
+Stephen Ndungu
+reg no CT101/ G/26448/25
+A SIMPLE C PROGRAQM TO PROMPT THE USER TO ENTER BANK BALANCE
+	
 
 #include <stdio.h>
 int main(){
@@ -8,4 +12,5 @@ int main(){
 	scanf("%d,&bankbalance");
 	printf("your ageis%d,bankbalance");
 	return 0;
+
 }
