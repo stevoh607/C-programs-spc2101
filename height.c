@@ -1,5 +1,8 @@
-//simple program to prompt the user to enter height
-
+/*
+Stephen Ndungu 
+reg no CT101/G/26448/25	
+SIMPLE C POGRAM TO PROMPT THE USER TO ENTER HEIGHT
+*/	
 #include<stdio.h>
 int main(){
 
@@ -10,5 +13,6 @@ int main(){
 
 
 	return 0;
+
 
 }
